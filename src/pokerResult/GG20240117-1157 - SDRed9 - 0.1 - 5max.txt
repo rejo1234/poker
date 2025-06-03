@@ -1,0 +1,777 @@
+poker.Poker Hand #SD179137475: ShortDeck No Limit ($0.1) - 2024/01/17 13:07:49
+Table 'SDRed9' 5-max Seat #4 is the button
+Seat 1: d968ecef ($13.45 in chips)
+Seat 2: e05f988 ($10.26 in chips)
+Seat 3: Hero ($9 in chips)
+Seat 4: 74f1200d ($10 in chips)
+Seat 5: 36adb600 ($9.12 in chips)
+36adb600: posts the ante $0.1
+d968ecef: posts the ante $0.1
+e05f988: posts the ante $0.1
+Hero: posts the ante $0.1
+74f1200d: posts the ante $0.1
+74f1200d: posts button blind $0.1
+*** HOLE CARDS ***
+Dealt to d968ecef
+Dealt to e05f988
+Dealt to Hero [Qs Jh]
+Dealt to 74f1200d
+Dealt to 36adb600
+36adb600: calls $0.1
+d968ecef: folds
+e05f988: calls $0.1
+Hero: raises $0.9 to $1
+74f1200d: calls $0.9
+36adb600: calls $0.9
+e05f988: folds
+*** FLOP *** [8h Qh As]
+36adb600: checks
+Hero: bets $2.18
+74f1200d: raises $6.72 to $8.9 and is all-in
+36adb600: folds
+Hero: calls $5.72 and is all-in
+Uncalled bet ($1) returned to 74f1200d
+74f1200d: shows [Ah Qc] (Pair of Aces and Pair of Queens)
+Hero: shows [Qs Jh] (Pair of Queens)
+*** TURN *** [8h Qh As] [Td]
+*** RIVER *** [8h Qh As Td] [Ac]
+*** SHOWDOWN ***
+74f1200d collected $19 from pot
+*** SUMMARY ***
+Total pot $19.4 | Rake $0.3 | Jackpot $0.1 | Bingo $0 | Fortune $0 | Tax $0
+Board [8h Qh As Td Ac]
+Seat 1: d968ecef folded before Flop
+Seat 2: e05f988 folded before Flop
+Seat 3: Hero showed [Qs Jh] and lost with Pair of Aces and Pair of Queens
+Seat 4: 74f1200d (button) showed [Ah Qc] and won ($19) with Aces Full over Queens
+Seat 5: 36adb600 folded on the Flop
+
+
+poker.Poker Hand #SD179137470: ShortDeck No Limit ($0.1) - 2024/01/17 13:07:19
+Table 'SDRed9' 5-max Seat #3 is the button
+Seat 1: d968ecef ($11.41 in chips)
+Seat 2: e05f988 ($10.36 in chips)
+Seat 3: Hero ($10 in chips)
+Seat 4: 74f1200d ($11.72 in chips)
+Seat 5: 36adb600 ($10.12 in chips)
+36adb600: posts the ante $0.1
+d968ecef: posts the ante $0.1
+e05f988: posts the ante $0.1
+Hero: posts the ante $0.1
+74f1200d: posts the ante $0.1
+Hero: posts button blind $0.1
+*** HOLE CARDS ***
+Dealt to d968ecef
+Dealt to e05f988
+Dealt to Hero [7s Ah]
+Dealt to 74f1200d
+Dealt to 36adb600
+74f1200d: folds
+36adb600: calls $0.1
+d968ecef: calls $0.1
+e05f988: folds
+Hero: raises $0.8 to $0.9
+36adb600: calls $0.8
+d968ecef: calls $0.8
+*** FLOP *** [Js Jd Th]
+36adb600: checks
+d968ecef: bets $2.4
+Hero: folds
+36adb600: folds
+Uncalled bet ($2.4) returned to d968ecef
+*** SHOWDOWN ***
+d968ecef collected $3.04 from pot
+*** SUMMARY ***
+Total pot $3.2 | Rake $0.16 | Jackpot $0 | Bingo $0 | Fortune $0 | Tax $0
+Board [Js Jd Th]
+Seat 1: d968ecef won ($3.04)
+Seat 2: e05f988 folded before Flop
+Seat 3: Hero (button) folded on the Flop
+Seat 4: 74f1200d folded before Flop
+Seat 5: 36adb600 folded on the Flop
+
+
+poker.Poker Hand #SD179137465: ShortDeck No Limit ($0.1) - 2024/01/17 13:06:35
+Table 'SDRed9' 5-max Seat #2 is the button
+Seat 1: d968ecef ($7.91 in chips)
+Seat 2: e05f988 ($11.36 in chips)
+Seat 3: Hero ($10 in chips)
+Seat 4: 74f1200d ($14.32 in chips)
+Seat 5: 36adb600 ($10.22 in chips)
+36adb600: posts the ante $0.1
+d968ecef: posts the ante $0.1
+e05f988: posts the ante $0.1
+Hero: posts the ante $0.1
+74f1200d: posts the ante $0.1
+e05f988: posts button blind $0.1
+*** HOLE CARDS ***
+Dealt to d968ecef
+Dealt to e05f988
+Dealt to Hero [9s Qd]
+Dealt to 74f1200d
+Dealt to 36adb600
+Hero: folds
+74f1200d: calls $0.1
+36adb600: folds
+d968ecef: raises $0.8 to $0.9
+e05f988: calls $0.8
+74f1200d: calls $0.8
+*** FLOP *** [Ah 9c Qh]
+74f1200d: checks
+d968ecef: bets $1.6
+e05f988: folds
+74f1200d: calls $1.6
+*** TURN *** [Ah 9c Qh] [7d]
+74f1200d: checks
+d968ecef: bets $5.31 and is all-in
+74f1200d: folds
+Uncalled bet ($5.31) returned to d968ecef
+*** SHOWDOWN ***
+d968ecef collected $6.1 from pot
+*** SUMMARY ***
+Total pot $6.4 | Rake $0.3 | Jackpot $0 | Bingo $0 | Fortune $0 | Tax $0
+Board [Ah 9c Qh 7d]
+Seat 1: d968ecef won ($6.1)
+Seat 2: e05f988 (button) folded on the Flop
+Seat 3: Hero folded before Flop
+Seat 4: 74f1200d folded on the Turn
+Seat 5: 36adb600 folded before Flop
+
+
+poker.Poker Hand #SD179137458: ShortDeck No Limit ($0.1) - 2024/01/17 13:05:37
+Table 'SDRed9' 5-max Seat #1 is the button
+Seat 1: d968ecef ($8.11 in chips)
+Seat 2: e05f988 ($11.46 in chips)
+Seat 3: Hero ($11.69 in chips)
+Seat 4: 74f1200d ($10 in chips)
+Seat 5: 36adb600 ($5.06 in chips)
+36adb600: posts the ante $0.1
+d968ecef: posts the ante $0.1
+e05f988: posts the ante $0.1
+Hero: posts the ante $0.1
+74f1200d: posts the ante $0.1
+d968ecef: posts button blind $0.1
+*** HOLE CARDS ***
+Dealt to d968ecef
+Dealt to e05f988
+Dealt to Hero [Qs Ad]
+Dealt to 74f1200d
+Dealt to 36adb600
+e05f988: folds
+Hero: calls $0.1
+74f1200d: calls $0.1
+36adb600: raises $1.8 to $1.9
+d968ecef: folds
+Hero: folds
+74f1200d: raises $4.5 to $6.4
+36adb600: calls $3.06 and is all-in
+Uncalled bet ($1.44) returned to 74f1200d
+74f1200d: shows [Ac As]
+36adb600: shows [Kd Ks]
+*** FLOP *** [Tc 9s 9d]
+*** TURN *** [Tc 9s 9d] [9c]
+*** RIVER *** [Tc 9s 9d 9c] [Kc]
+74f1200d: Receives Cashout ($9.38)
+*** SHOWDOWN ***
+36adb600 collected $10.22 from pot
+*** SUMMARY ***
+Total pot $10.62 | Rake $0.3 | Jackpot $0.1 | Bingo $0 | Fortune $0 | Tax $0
+Board [Tc 9s 9d 9c Kc]
+Seat 1: d968ecef (button) folded before Flop
+Seat 2: e05f988 folded before Flop
+Seat 3: Hero folded before Flop
+Seat 4: 74f1200d showed [Ac As] and lost with Nines Full over Aces, EV Cashout ($9.38)
+Seat 5: 36adb600 showed [Kd Ks] and won ($10.22) with Kings Full over Nines
+
+
+poker.Poker Hand #SD179137454: ShortDeck No Limit ($0.1) - 2024/01/17 13:05:13
+Table 'SDRed9' 5-max Seat #5 is the button
+Seat 1: d968ecef ($8.31 in chips)
+Seat 2: e05f988 ($11.56 in chips)
+Seat 3: Hero ($11.79 in chips)
+Seat 4: 74f1200d ($11.91 in chips)
+Seat 5: 36adb600 ($4.5 in chips)
+36adb600: posts the ante $0.1
+d968ecef: posts the ante $0.1
+e05f988: posts the ante $0.1
+Hero: posts the ante $0.1
+74f1200d: posts the ante $0.1
+36adb600: posts button blind $0.1
+*** HOLE CARDS ***
+Dealt to d968ecef
+Dealt to e05f988
+Dealt to Hero [Ac 9s]
+Dealt to 74f1200d
+Dealt to 36adb600
+d968ecef: calls $0.1
+e05f988: folds
+Hero: folds
+74f1200d: calls $0.1
+36adb600: raises $0.8 to $0.9
+d968ecef: folds
+74f1200d: folds
+Uncalled bet ($0.8) returned to 36adb600
+36adb600: shows [6h]
+*** SHOWDOWN ***
+36adb600 collected $0.76 from pot
+*** SUMMARY ***
+Total pot $0.8 | Rake $0.04 | Jackpot $0 | Bingo $0 | Fortune $0 | Tax $0
+Seat 1: d968ecef folded before Flop
+Seat 2: e05f988 folded before Flop
+Seat 3: Hero folded before Flop
+Seat 4: 74f1200d folded before Flop
+Seat 5: 36adb600 (button) showed [6h] and collected ($0.76)
+
+
+poker.Poker Hand #SD179137451: ShortDeck No Limit ($0.1) - 2024/01/17 13:04:54
+Table 'SDRed9' 5-max Seat #4 is the button
+Seat 1: d968ecef ($7.84 in chips)
+Seat 2: e05f988 ($11.66 in chips)
+Seat 3: Hero ($11.89 in chips)
+Seat 4: 74f1200d ($12.11 in chips)
+Seat 5: 36adb600 ($4.6 in chips)
+36adb600: posts the ante $0.1
+d968ecef: posts the ante $0.1
+e05f988: posts the ante $0.1
+Hero: posts the ante $0.1
+74f1200d: posts the ante $0.1
+74f1200d: posts button blind $0.1
+*** HOLE CARDS ***
+Dealt to d968ecef
+Dealt to e05f988
+Dealt to Hero [Ks 6c]
+Dealt to 74f1200d
+Dealt to 36adb600
+36adb600: folds
+d968ecef: calls $0.1
+e05f988: folds
+Hero: folds
+74f1200d: checks
+*** FLOP *** [8h 6s 9h]
+d968ecef: bets $0.53
+74f1200d: folds
+Uncalled bet ($0.53) returned to d968ecef
+*** SHOWDOWN ***
+d968ecef collected $0.67 from pot
+*** SUMMARY ***
+Total pot $0.7 | Rake $0.03 | Jackpot $0 | Bingo $0 | Fortune $0 | Tax $0
+Board [8h 6s 9h]
+Seat 1: d968ecef won ($0.67)
+Seat 2: e05f988 folded before Flop
+Seat 3: Hero folded before Flop
+Seat 4: 74f1200d (button) folded on the Flop
+Seat 5: 36adb600 folded before Flop
+
+
+poker.Poker Hand #SD179137448: ShortDeck No Limit ($0.1) - 2024/01/17 13:04:31
+Table 'SDRed9' 5-max Seat #3 is the button
+Seat 1: d968ecef ($7.94 in chips)
+Seat 2: e05f988 ($11.76 in chips)
+Seat 3: Hero ($12.89 in chips)
+Seat 4: 74f1200d ($10.83 in chips)
+Seat 5: 36adb600 ($4.8 in chips)
+36adb600: posts the ante $0.1
+d968ecef: posts the ante $0.1
+e05f988: posts the ante $0.1
+Hero: posts the ante $0.1
+74f1200d: posts the ante $0.1
+Hero: posts button blind $0.1
+*** HOLE CARDS ***
+Dealt to d968ecef
+Dealt to e05f988
+Dealt to Hero [As Qd]
+Dealt to 74f1200d
+Dealt to 36adb600
+74f1200d: calls $0.1
+36adb600: calls $0.1
+d968ecef: folds
+e05f988: folds
+Hero: raises $0.8 to $0.9
+74f1200d: raises $9.83 to $10.73 and is all-in
+36adb600: folds
+Hero: folds
+Uncalled bet ($9.83) returned to 74f1200d
+*** SHOWDOWN ***
+74f1200d collected $2.28 from pot
+*** SUMMARY ***
+Total pot $2.4 | Rake $0.12 | Jackpot $0 | Bingo $0 | Fortune $0 | Tax $0
+Seat 1: d968ecef folded before Flop
+Seat 2: e05f988 folded before Flop
+Seat 3: Hero (button) folded before Flop
+Seat 4: 74f1200d collected ($2.28)
+Seat 5: 36adb600 folded before Flop
+
+
+poker.Poker Hand #SD179137443: ShortDeck No Limit ($0.1) - 2024/01/17 13:03:47
+Table 'SDRed9' 5-max Seat #2 is the button
+Seat 1: d968ecef ($8.14 in chips)
+Seat 2: e05f988 ($12.26 in chips)
+Seat 3: Hero ($12.99 in chips)
+Seat 4: 74f1200d ($9.9 in chips)
+Seat 5: 36adb600 ($5 in chips)
+36adb600: posts the ante $0.1
+d968ecef: posts the ante $0.1
+e05f988: posts the ante $0.1
+Hero: posts the ante $0.1
+74f1200d: posts the ante $0.1
+e05f988: posts button blind $0.1
+*** HOLE CARDS ***
+Dealt to d968ecef
+Dealt to e05f988
+Dealt to Hero [8d As]
+Dealt to 74f1200d
+Dealt to 36adb600
+Hero: folds
+74f1200d: calls $0.1
+36adb600: calls $0.1
+d968ecef: calls $0.1
+e05f988: checks
+*** FLOP *** [8s 8c Qh]
+74f1200d: checks
+36adb600: checks
+d968ecef: checks
+e05f988: bets $0.3
+74f1200d: raises $1.5 to $1.8
+36adb600: folds
+d968ecef: folds
+e05f988: folds
+Uncalled bet ($1.5) returned to 74f1200d
+74f1200d: shows [Qc Qs] (Queens Full over Eights)
+*** SHOWDOWN ***
+74f1200d collected $1.43 from pot
+*** SUMMARY ***
+Total pot $1.5 | Rake $0.07 | Jackpot $0 | Bingo $0 | Fortune $0 | Tax $0
+Board [8s 8c Qh]
+Seat 1: d968ecef folded on the Flop
+Seat 2: e05f988 (button) folded on the Flop
+Seat 3: Hero folded before Flop
+Seat 4: 74f1200d showed [Qc Qs] and won ($1.43)
+Seat 5: 36adb600 folded on the Flop
+
+
+poker.Poker Hand #SD179137437: ShortDeck No Limit ($0.1) - 2024/01/17 13:03:13
+Table 'SDRed9' 5-max Seat #1 is the button
+Seat 1: d968ecef ($7.45 in chips)
+Seat 2: e05f988 ($12.36 in chips)
+Seat 3: Hero ($13.43 in chips)
+Seat 4: 74f1200d ($10 in chips)
+Seat 5: 4753d5b ($9.04 in chips)
+d968ecef: posts the ante $0.1
+e05f988: posts the ante $0.1
+Hero: posts the ante $0.1
+74f1200d: posts the ante $0.1
+4753d5b: posts the ante $0.1
+d968ecef: posts button blind $0.1
+*** HOLE CARDS ***
+Dealt to d968ecef
+Dealt to e05f988
+Dealt to Hero [Ac 9c]
+Dealt to 74f1200d
+Dealt to 4753d5b
+e05f988: folds
+Hero: calls $0.1
+74f1200d: folds
+4753d5b: folds
+d968ecef: checks
+*** FLOP *** [As Qs Ks]
+Hero: checks
+d968ecef: bets $0.24
+Hero: calls $0.24
+*** TURN *** [As Qs Ks] [6c]
+Hero: checks
+d968ecef: checks
+*** RIVER *** [As Qs Ks 6c] [Tc]
+Hero: checks
+d968ecef: bets $0.89
+Hero: folds
+Uncalled bet ($0.89) returned to d968ecef
+*** SHOWDOWN ***
+d968ecef collected $1.13 from pot
+*** SUMMARY ***
+Total pot $1.18 | Rake $0.05 | Jackpot $0 | Bingo $0 | Fortune $0 | Tax $0
+Board [As Qs Ks 6c Tc]
+Seat 1: d968ecef (button) won ($1.13)
+Seat 2: e05f988 folded before Flop
+Seat 3: Hero folded on the River
+Seat 4: 74f1200d folded before Flop
+Seat 5: 4753d5b folded before Flop
+
+
+poker.Poker Hand #SD179137432: ShortDeck No Limit ($0.1) - 2024/01/17 13:02:40
+Table 'SDRed9' 5-max Seat #5 is the button
+Seat 1: d968ecef ($7.95 in chips)
+Seat 2: e05f988 ($12.46 in chips)
+Seat 3: Hero ($13.53 in chips)
+Seat 5: 4753d5b ($8.4 in chips)
+d968ecef: posts the ante $0.1
+e05f988: posts the ante $0.1
+Hero: posts the ante $0.1
+4753d5b: posts the ante $0.1
+4753d5b: posts button blind $0.1
+*** HOLE CARDS ***
+Dealt to d968ecef
+Dealt to e05f988
+Dealt to Hero [6h Kc]
+Dealt to 4753d5b
+d968ecef: calls $0.1
+e05f988: folds
+Hero: folds
+4753d5b: checks
+*** FLOP *** [Kd Th Qs]
+d968ecef: checks
+4753d5b: checks
+*** TURN *** [Kd Th Qs] [Ac]
+d968ecef: bets $0.3
+4753d5b: raises $7.9 to $8.2 and is all-in
+d968ecef: folds
+Uncalled bet ($7.9) returned to 4753d5b
+*** SHOWDOWN ***
+4753d5b collected $1.14 from pot
+*** SUMMARY ***
+Total pot $1.2 | Rake $0.06 | Jackpot $0 | Bingo $0 | Fortune $0 | Tax $0
+Board [Kd Th Qs Ac]
+Seat 1: d968ecef folded on the Turn
+Seat 2: e05f988 folded before Flop
+Seat 3: Hero folded before Flop
+Seat 5: 4753d5b (button) won ($1.14)
+
+
+poker.Poker Hand #SD179137425: ShortDeck No Limit ($0.1) - 2024/01/17 13:01:54
+Table 'SDRed9' 5-max Seat #3 is the button
+Seat 1: 90616c2b ($13.06 in chips)
+Seat 2: e05f988 ($6.23 in chips)
+Seat 3: Hero ($13.73 in chips)
+Seat 4: e7665cbd ($7.43 in chips)
+Seat 5: 4753d5b ($8.5 in chips)
+e05f988: posts the ante $0.1
+e7665cbd: posts the ante $0.1
+Hero: posts the ante $0.1
+90616c2b: posts the ante $0.1
+4753d5b: posts the ante $0.1
+Hero: posts button blind $0.1
+*** HOLE CARDS ***
+Dealt to 90616c2b
+Dealt to e05f988
+Dealt to Hero [9s 7h]
+Dealt to e7665cbd
+Dealt to 4753d5b
+e7665cbd: calls $0.1
+4753d5b: folds
+90616c2b: folds
+e05f988: calls $0.1
+Hero: checks
+*** FLOP *** [Kd 9h Ks]
+e7665cbd: checks
+e05f988: bets $0.27
+Hero: folds
+e7665cbd: raises $6.96 to $7.23 and is all-in
+e05f988: calls $5.76 and is all-in
+Uncalled bet ($1.2) returned to e7665cbd
+e7665cbd: shows [8s Kc] (Three Kings)
+e05f988: shows [Js Kh] (Three Kings)
+*** TURN *** [Kd 9h Ks] [Tc]
+*** RIVER *** [Kd 9h Ks Tc] [6d]
+*** SHOWDOWN ***
+e05f988 collected $12.46 from pot
+*** SUMMARY ***
+Total pot $12.86 | Rake $0.3 | Jackpot $0.1 | Bingo $0 | Fortune $0 | Tax $0
+Board [Kd 9h Ks Tc 6d]
+Seat 1: 90616c2b folded before Flop
+Seat 2: e05f988 showed [Js Kh] and won ($12.46) with Three Kings
+Seat 3: Hero (button) folded on the Flop
+Seat 4: e7665cbd showed [8s Kc] and lost with Three Kings
+Seat 5: 4753d5b folded before Flop
+
+
+poker.Poker Hand #SD179137418: ShortDeck No Limit ($0.1) - 2024/01/17 13:01:31
+Table 'SDRed9' 5-max Seat #2 is the button
+Seat 1: 90616c2b ($12.04 in chips)
+Seat 2: e05f988 ($6.43 in chips)
+Seat 3: Hero ($13.93 in chips)
+Seat 4: e7665cbd ($7.53 in chips)
+Seat 5: 4753d5b ($9.1 in chips)
+e05f988: posts the ante $0.1
+e7665cbd: posts the ante $0.1
+Hero: posts the ante $0.1
+90616c2b: posts the ante $0.1
+4753d5b: posts the ante $0.1
+e05f988: posts button blind $0.1
+*** HOLE CARDS ***
+Dealt to 90616c2b
+Dealt to e05f988
+Dealt to Hero [Th 8h]
+Dealt to e7665cbd
+Dealt to 4753d5b
+Hero: calls $0.1
+e7665cbd: folds
+4753d5b: raises $0.4 to $0.5
+90616c2b: raises $1.7 to $2.2
+e05f988: folds
+Hero: folds
+4753d5b: folds
+Uncalled bet ($1.7) returned to 90616c2b
+*** SHOWDOWN ***
+90616c2b collected $1.62 from pot
+*** SUMMARY ***
+Total pot $1.7 | Rake $0.08 | Jackpot $0 | Bingo $0 | Fortune $0 | Tax $0
+Seat 1: 90616c2b collected ($1.62)
+Seat 2: e05f988 (button) folded before Flop
+Seat 3: Hero folded before Flop
+Seat 4: e7665cbd folded before Flop
+Seat 5: 4753d5b folded before Flop
+
+
+poker.Poker Hand #SD179137411: ShortDeck No Limit ($0.1) - 2024/01/17 13:00:54
+Table 'SDRed9' 5-max Seat #1 is the button
+Seat 1: 90616c2b ($12.48 in chips)
+Seat 2: e05f988 ($5.74 in chips)
+Seat 3: Hero ($14.03 in chips)
+Seat 4: e7665cbd ($7.63 in chips)
+Seat 5: 4753d5b ($9.2 in chips)
+e05f988: posts the ante $0.1
+e7665cbd: posts the ante $0.1
+Hero: posts the ante $0.1
+90616c2b: posts the ante $0.1
+4753d5b: posts the ante $0.1
+90616c2b: posts button blind $0.1
+*** HOLE CARDS ***
+Dealt to 90616c2b
+Dealt to e05f988
+Dealt to Hero [As 7h]
+Dealt to e7665cbd
+Dealt to 4753d5b
+e05f988: calls $0.1
+Hero: folds
+e7665cbd: folds
+4753d5b: folds
+90616c2b: checks
+*** FLOP *** [Qd Tc Qs]
+e05f988: bets $0.24
+90616c2b: calls $0.24
+*** TURN *** [Qd Tc Qs] [9s]
+e05f988: bets $0.39
+90616c2b: folds
+Uncalled bet ($0.39) returned to e05f988
+*** SHOWDOWN ***
+e05f988 collected $1.13 from pot
+*** SUMMARY ***
+Total pot $1.18 | Rake $0.05 | Jackpot $0 | Bingo $0 | Fortune $0 | Tax $0
+Board [Qd Tc Qs 9s]
+Seat 1: 90616c2b (button) folded on the Turn
+Seat 2: e05f988 won ($1.13)
+Seat 3: Hero folded before Flop
+Seat 4: e7665cbd folded before Flop
+Seat 5: 4753d5b folded before Flop
+
+
+poker.Poker Hand #SD179137408: ShortDeck No Limit ($0.1) - 2024/01/17 13:00:19
+Table 'SDRed9' 5-max Seat #5 is the button
+Seat 1: 90616c2b ($12.58 in chips)
+Seat 2: e05f988 ($5.94 in chips)
+Seat 3: Hero ($14.23 in chips)
+Seat 4: e7665cbd ($6.98 in chips)
+Seat 5: 4753d5b ($9.4 in chips)
+e05f988: posts the ante $0.1
+e7665cbd: posts the ante $0.1
+Hero: posts the ante $0.1
+90616c2b: posts the ante $0.1
+4753d5b: posts the ante $0.1
+4753d5b: posts button blind $0.1
+*** HOLE CARDS ***
+Dealt to 90616c2b
+Dealt to e05f988
+Dealt to Hero [6s Ts]
+Dealt to e7665cbd
+Dealt to 4753d5b
+90616c2b: folds
+e05f988: calls $0.1
+Hero: calls $0.1
+e7665cbd: calls $0.1
+4753d5b: checks
+*** FLOP *** [6d Kd Ad]
+e05f988: checks
+Hero: checks
+e7665cbd: bets $0.68
+4753d5b: folds
+e05f988: folds
+Hero: folds
+Uncalled bet ($0.68) returned to e7665cbd
+*** SHOWDOWN ***
+e7665cbd collected $0.85 from pot
+*** SUMMARY ***
+Total pot $0.9 | Rake $0.05 | Jackpot $0 | Bingo $0 | Fortune $0 | Tax $0
+Board [6d Kd Ad]
+Seat 1: 90616c2b folded before Flop
+Seat 2: e05f988 folded on the Flop
+Seat 3: Hero folded on the Flop
+Seat 4: e7665cbd won ($0.85)
+Seat 5: 4753d5b (button) folded on the Flop
+
+
+poker.Poker Hand #SD179137396: ShortDeck No Limit ($0.1) - 2024/01/17 12:59:01
+Table 'SDRed9' 5-max Seat #4 is the button
+Seat 1: 90616c2b ($12.68 in chips)
+Seat 2: e05f988 ($6.94 in chips)
+Seat 3: Hero ($7.28 in chips)
+Seat 4: e7665cbd ($6.15 in chips)
+Seat 5: 4753d5b ($9.5 in chips)
+e05f988: posts the ante $0.1
+e7665cbd: posts the ante $0.1
+Hero: posts the ante $0.1
+90616c2b: posts the ante $0.1
+4753d5b: posts the ante $0.1
+e7665cbd: posts button blind $0.1
+*** HOLE CARDS ***
+Dealt to 90616c2b
+Dealt to e05f988
+Dealt to Hero [Jd Ks]
+Dealt to e7665cbd
+Dealt to 4753d5b
+4753d5b: folds
+90616c2b: folds
+e05f988: calls $0.1
+Hero: raises $0.8 to $0.9
+e7665cbd: calls $0.8
+e05f988: calls $0.8
+*** FLOP *** [6h Kd 9s]
+e05f988: checks
+Hero: bets $6.28 and is all-in
+e7665cbd: calls $5.15 and is all-in
+e05f988: folds
+Uncalled bet ($1.13) returned to Hero
+Hero: shows [Jd Ks] (Pair of Kings)
+e7665cbd: shows [Kh Ts] (Pair of Kings)
+*** TURN *** [6h Kd 9s] [8c]
+*** RIVER *** [6h Kd 9s 8c] [Qh]
+*** SHOWDOWN ***
+Hero collected $13.1 from pot
+*** SUMMARY ***
+Total pot $13.5 | Rake $0.3 | Jackpot $0.1 | Bingo $0 | Fortune $0 | Tax $0
+Board [6h Kd 9s 8c Qh]
+Seat 1: 90616c2b folded before Flop
+Seat 2: e05f988 folded on the Flop
+Seat 3: Hero showed [Jd Ks] and won ($13.1) with Pair of Kings
+Seat 4: e7665cbd (button) showed [Kh Ts] and lost with Pair of Kings
+Seat 5: 4753d5b folded before Flop
+
+
+poker.Poker Hand #SD179137389: ShortDeck No Limit ($0.1) - 2024/01/17 12:58:26
+Table 'SDRed9' 5-max Seat #3 is the button
+Seat 1: 90616c2b ($12.78 in chips)
+Seat 2: e05f988 ($7.04 in chips)
+Seat 3: Hero ($6.72 in chips)
+Seat 4: e7665cbd ($6.35 in chips)
+Seat 5: 4753d5b ($9.7 in chips)
+e05f988: posts the ante $0.1
+e7665cbd: posts the ante $0.1
+Hero: posts the ante $0.1
+90616c2b: posts the ante $0.1
+4753d5b: posts the ante $0.1
+Hero: posts button blind $0.1
+*** HOLE CARDS ***
+Dealt to 90616c2b
+Dealt to e05f988
+Dealt to Hero [Kd 7h]
+Dealt to e7665cbd
+Dealt to 4753d5b
+e7665cbd: calls $0.1
+4753d5b: calls $0.1
+90616c2b: folds
+e05f988: folds
+Hero: checks
+*** FLOP *** [Tc Th Qs]
+e7665cbd: checks
+4753d5b: checks
+Hero: bets $0.47
+e7665cbd: folds
+4753d5b: folds
+Uncalled bet ($0.47) returned to Hero
+*** SHOWDOWN ***
+Hero collected $0.76 from pot
+*** SUMMARY ***
+Total pot $0.8 | Rake $0.04 | Jackpot $0 | Bingo $0 | Fortune $0 | Tax $0
+Board [Tc Th Qs]
+Seat 1: 90616c2b folded before Flop
+Seat 2: e05f988 folded before Flop
+Seat 3: Hero (button) won ($0.76)
+Seat 4: e7665cbd folded on the Flop
+Seat 5: 4753d5b folded on the Flop
+
+
+poker.Poker Hand #SD179137388: ShortDeck No Limit ($0.1) - 2024/01/17 12:58:09
+Table 'SDRed9' 5-max Seat #2 is the button
+Seat 1: 90616c2b ($12.88 in chips)
+Seat 2: e05f988 ($7.24 in chips)
+Seat 3: Hero ($6.22 in chips)
+Seat 4: e7665cbd ($6.45 in chips)
+Seat 5: 4753d5b ($9.8 in chips)
+e05f988: posts the ante $0.1
+e7665cbd: posts the ante $0.1
+Hero: posts the ante $0.1
+90616c2b: posts the ante $0.1
+4753d5b: posts the ante $0.1
+e05f988: posts button blind $0.1
+*** HOLE CARDS ***
+Dealt to 90616c2b
+Dealt to e05f988
+Dealt to Hero [Jh Qh]
+Dealt to e7665cbd
+Dealt to 4753d5b
+Hero: raises $6.02 to $6.12 and is all-in
+e7665cbd: folds
+4753d5b: folds
+90616c2b: folds
+e05f988: folds
+Uncalled bet ($6.02) returned to Hero
+*** SHOWDOWN ***
+Hero collected $0.7 from pot
+*** SUMMARY ***
+Total pot $0.7 | Rake $0 | Jackpot $0 | Bingo $0 | Fortune $0 | Tax $0
+Seat 1: 90616c2b folded before Flop
+Seat 2: e05f988 (button) folded before Flop
+Seat 3: Hero collected ($0.7)
+Seat 4: e7665cbd folded before Flop
+Seat 5: 4753d5b folded before Flop
+
+
+poker.Poker Hand #SD179137386: ShortDeck No Limit ($0.1) - 2024/01/17 12:57:47
+Table 'SDRed9' 5-max Seat #1 is the button
+Seat 1: 90616c2b ($13.08 in chips)
+Seat 2: e05f988 ($7.34 in chips)
+Seat 3: Hero ($6.42 in chips)
+Seat 4: e7665cbd ($5.8 in chips)
+Seat 5: 4753d5b ($10 in chips)
+e05f988: posts the ante $0.1
+e7665cbd: posts the ante $0.1
+Hero: posts the ante $0.1
+90616c2b: posts the ante $0.1
+4753d5b: posts the ante $0.1
+90616c2b: posts button blind $0.1
+*** HOLE CARDS ***
+Dealt to 90616c2b
+Dealt to e05f988
+Dealt to Hero [Jc Td]
+Dealt to e7665cbd
+Dealt to 4753d5b
+e05f988: folds
+Hero: calls $0.1
+e7665cbd: calls $0.1
+4753d5b: calls $0.1
+90616c2b: checks
+*** FLOP *** [Ah Kc 6s]
+Hero: checks
+e7665cbd: bets $0.45
+4753d5b: folds
+90616c2b: folds
+Hero: folds
+Uncalled bet ($0.45) returned to e7665cbd
+*** SHOWDOWN ***
+e7665cbd collected $0.85 from pot
+*** SUMMARY ***
+Total pot $0.9 | Rake $0.05 | Jackpot $0 | Bingo $0 | Fortune $0 | Tax $0
+Board [Ah Kc 6s]
+Seat 1: 90616c2b (button) folded on the Flop
+Seat 2: e05f988 folded before Flop
+Seat 3: Hero folded on the Flop
+Seat 4: e7665cbd won ($0.85)
+Seat 5: 4753d5b folded on the Flop
