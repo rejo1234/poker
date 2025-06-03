@@ -14,6 +14,10 @@ Po ostatniej fazie, jeśli zostało więcej niż 1 gracz, następuje showdown �
 Każdy gracz tworzy najlepszy możliwy układ 5 kart z własnych dwóch oraz pięciu wspólnych.
 Wygrywa gracz z najsilniejszym układem.
 
+**Wprowadzenie do obsługi**
+Gra uruchamia się automatycznie po starcie aplikacji. Gracz podaje swoją decyzję z klawiatury, a następnie czeka na ruch przeciwnika. Przed kolejnym rozdaniem stack jest automatycznie uzupełniany do 100, a następnie rozdawane są nowe karty do gry.
+
+
 Jednym z największych wyzwań w tym projekcie było obliczanie equity graczy oraz rozpoznawanie ich układów kart. Logika która odpowiada za rozwiązanie tych problemów znajduje się w klasie **EquityEvaluator**
 
 **EquityEvaluator** - oblicza i przechowuje szanse wygranej dwóch rąk pokerowych na różnych etapach gry oraz zawiera metody sprawdzające i zwracające wartości pokerowych układów takich jak kareta, full, kolor itp.
